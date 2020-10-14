@@ -1,0 +1,3 @@
+spring.application.name=service-balance
+service-balance.maximum=100001
+service-balance.minimum=0
